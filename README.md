@@ -1,7 +1,7 @@
 # Welcome
 Welcome to Newcomb Institute's Technology Lab. 
 
-If you are here to learn about hwo to use the technology on the 3rd floor of the commons, [click here.]()
+If you are here to learn about hwo to use the technology on the 3rd floor of the commons, [click here.](https://github.com/newcombtech/Tech-Lab/blob/main/Commons-Technology.md)
 
 If you are here to learn about SCRUM and the DRI lab, click here.
 
