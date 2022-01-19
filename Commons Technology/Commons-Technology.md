@@ -2,7 +2,7 @@
 
 This one-stop training and information hub for Newcomb Institute's Technologies educates Newcomb faculty, staff, students and affliates about systems and technologies commonly used at our organization. Click on the links below to view training instructions, video help and information on who to contact.  
 
-Access this digital tutorial at https://github.com/newcombtech/Commons-Technology
+Access the tutorial by visiting [Commons Technology tutorial](https://github.com/newcombtech/Technology-Lab/blob/main/Commons%20Technology/Commons-Technology.md).
 
 **NEED HELP**
 
@@ -45,7 +45,7 @@ To request training or computer updates, email Dr. Jacquelyne Thoni Howard.
 
   - **Wave Sync and List Servs**: Lauren Gaines 
 
-  - **Web Services via Drupal and Wordpress**: Graphic Design/Web Staff – Email Dr. Jacquelyne Thoni Howard until hired. 
+  - **Web Services via Drupal and Wordpress**: Becky Gipson 
 
   - **Work Station Equipment** - Keyboard, Mouse, Computer, Adaptors, Cords: Visit the IT Interns Office Hours (340: MWF from 10 to noon ) or email Dr. Jacquelyne Thoni Howard.  
 
@@ -123,7 +123,7 @@ The NI list-serve address is NCI-L@LISTSERV.TULANE.EDU. All emails sent via the 
 - [Zoom/Webinar Requests](https://it.tulane.edu/zoom)
 - [Email](https://outlook.com/tulane.edu): You can access your Tulane email and calendars via the web browser or through a desktop app.This portal is also where you can access your other Microsoft office tools and software. You can change your profile picture under the profile settings. 
 - [Newcomb Events Calendar](https://tulane.box.com/s/ssggyo0mwsdj3i66kw3w4jqezx3ojd6z): Access the Newcomb Events calendar under “My Calendars” in your outlook calendar. You should consult this calendar and the wave sync calendars when planning events, to avoid double booking. You may need to quit the outlook desktop app and reopen it for the calendar to appear. 
-Departmental Email Accounts](http://outlook.com/wave.tulane.edu): (username@wave.tulane.edu): 
+[Departmental Email Accounts](http://outlook.com/wave.tulane.edu): (username@wave.tulane.edu): 
 - [Wave Sync](https://tulane.campuslabs.com/engage/): Create student program applications and event invitations/calendar notifications via wavesync. 
 - [Qualtrics](https://it.tulane.edu/qualtrics-survey-software): Create surveys for research. We use wave sync is for all student applications. If you use qualtrics for institutional surveys (not personal research), please share with Jacque as a collaborator. 
  - [VPN](https://it.tulane.edu/vpn-software): To access software from Development and Budget office off campus. 
