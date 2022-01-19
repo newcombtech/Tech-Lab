@@ -27,4 +27,4 @@ The Technology Lab also goes to many different kinds of events such as Grace Hop
 In addition to Grace Hopper, the Tech Lab helps undergraduates prepare for the job search. One of the ways we have done this is through a [Guide to create an effective LinkedIn.](https://github.com/newcombtech/Technology-Lab/blob/main/Grace%20Hopper%20Celebration/LinkedIn-Tips)
 
 One of the main methodologies that we use within the Tech Lab is the Agile Scrum workflow. We have a [manual](https://github.com/newcombtech/Technology-Lab/blob/main/Technology%20Lab/SCRUM%20Manual.pdf) that helps explain its tenets, uses, benefits, for creating a collaborative work environment.
-If you're still curious about why we use Scrum, look no further and read [Why Scrum?](https://github.com/newcombtech/Technology-Lab/blob/main/Technology%20Lab/Why%20Scrum.pdf).
+If you're still curious about why we use Scrum, look no further and read [Why Scrum?](https://github.com/newcombtech/Technology-Lab/blob/main/Technology%20Lab/Why%20Scrum.pdf)
