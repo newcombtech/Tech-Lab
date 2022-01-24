@@ -34,7 +34,7 @@ To request training or computer updates, email Dr. Jacquelyne Thoni Howard.
       - Lucien: MWF 10-Noon (Commons 340)
       - Sophie MW 1:00-2:30 (Commons 340)
   
-  - **Third**: If Tulane IT does not resolve the issue or sends you to Technology Connection, email Dr. Jacquelyne Thoni Howard a summary of the issue and what has been done so far. To make an appointment with Dr. Howard, you may email her or use her [calendar link](https://calendly.com/jhoward8/30min?month=2021-08).
+  - **Third**: If Tulane IT does not resolve the issue or sends you to Technology Connection, email Dr. Jacquelyne Thoni Howard a summary of the issue and what has been done so far. To make an appointment with Dr. Howard, you may email her or use her [calendar link](https://calendly.com/jhoward8/15min).
 
 -----------------------------------------------
 **Equipment, Systems and Consultation Support**
@@ -121,7 +121,7 @@ The NI list-serve address is NCI-L@LISTSERV.TULANE.EDU. All emails sent via the 
 - [Wifi](https://it.tulane.edu/wifi): To login to wifi at Tulane, use Eduroam. I have downloaded the patch on your computer so that you are able to connect. 
 - [Qualtrics](http://guide.tulane.edu/ilc-training-library/ilc-training-library-qualtrics/)
 - [Zoom/Webinar Requests](https://it.tulane.edu/zoom)
-- [Email](https://outlook.com/tulane.edu): You can access your Tulane email and calendars via the web browser or through a desktop app.This portal is also where you can access your other Microsoft office tools and software. You can change your profile picture under the profile settings. 
+- [Email](https://outlook.com/tulane.edu): You can access your Tulane email and calendars via the web browser or through a desktop app. This portal is also where you can access your other Microsoft office tools and software. You can change your profile picture under the profile settings. 
 - [Newcomb Events Calendar](https://tulane.box.com/s/ssggyo0mwsdj3i66kw3w4jqezx3ojd6z): Access the Newcomb Events calendar under “My Calendars” in your outlook calendar. You should consult this calendar and the wave sync calendars when planning events, to avoid double booking. You may need to quit the outlook desktop app and reopen it for the calendar to appear. 
 [Departmental Email Accounts](http://outlook.com/wave.tulane.edu): (username@wave.tulane.edu): 
 - [Wave Sync](https://tulane.campuslabs.com/engage/): Create student program applications and event invitations/calendar notifications via wavesync. 
