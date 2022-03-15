@@ -98,6 +98,10 @@ To request training or computer updates, email Dr. Jacquelyne Thoni Howard.
 - [Replace Paper Video](https://www.youtube.com/watch?v=7AAVVajvvrI&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=23)
 
 -----------------------------------------------
+**Module 5 - Record a meeting**
+- [How to record on Zoom in room 300](https://docs.google.com/document/d/1Opaq_xwoCR_T2nwweUSNR4VxZckajn9pFni0XFvd8f8/edit)
+
+-----------------------------------------------
 **ListServ Instructions**
 The NI list-serve address is NCI-L@LISTSERV.TULANE.EDU. All emails sent via the listserv can be viewed by all Newcomb faculty and staff. To send an email via the listserv:
   1) Construct your email. 
