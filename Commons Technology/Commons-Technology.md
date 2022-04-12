@@ -2,7 +2,7 @@
 
 This one-stop training and information hub for Newcomb Institute's Technologies educates Newcomb faculty, staff, students and affliates about systems and technologies commonly used at our organization. Click on the links below to view training instructions, video help and information on who to contact.  
 
-Access the tutorial by visiting [Commons Technology tutorial](https://github.com/newcombtech/Technology-Lab/blob/main/Commons%20Technology/Commons-Technology.md).
+Access the tutorial by visiting [Commons Technology tutorial](https://github.com/newcombtech/Technology-Lab/blob/main/Commons%20Technology/Commons-Technology.md). <br><br>
 
 **NEED HELP**
 
@@ -112,17 +112,16 @@ The NI list-serve address is NCI-L@LISTSERV.TULANE.EDU. All emails sent via the 
 
 **Important Links**
 - [Box](https://tulane.box.com): If prompted, you will click “Part of Tulane University.” Use your Tulane.edu email address and email password. All NI faculty and staff should to use box as their file backup plan, especially with institutional files. 
-- [NI Share Drive Folder](https://tulane.box.com/s/4soryjqxusrmm4llbz1hayuuutzexat1): The NI Share Drive folder will appear in your tulane box account. Shared Institutional materials should be stored in this folder on the cloud. Everyone at Newcomb can see the files located in the NI Share drive. Anything placed in blue folders means it is shared with someone. Here are the instructions for using the share drive: 
-- [Events: Setting up Bulk Wifi, Webinar Requests, and Conference Calling](https://tulane.box.com/s/njo3kc8nyrmdlsb48bi8u6kmc6p217o8)
+- [NI Share Drive Folder](https://github.com/newcombtech/Technology-Lab/blob/main/Commons%20Technology/Instructions/Share%20Drive%20Instructions.md): The NI Share Drive folder will appear in your tulane box account. Shared Institutional materials should be stored in this folder on the cloud. Everyone at Newcomb can see the files located in the NI Share drive. Anything placed in blue folders means it is shared with someone. Here are the instructions for using the share drive: 
+- [Events: Setting up Bulk Wifi, Webinar Requests, and Conference Calling](https://github.com/newcombtech/Technology-Lab/blob/main/Commons%20Technology/Instructions/Event%20Technology%20Checklist.pdf)
 - [Phone Manual](https://tulane.box.com/s/gwk9mytww8hhex77nyh0idbib6xc7ibn) 
 - Software:
       - [Employee Access to Software](https://tulane.onthehub.com/WebStore/Welcome.aspx) 
       - [Student Access to Adobe Creative Cloud](appsanywhere.tulane.edu)
       - [Faculty/Staff Access Adobe Creative Cloud](https://it.tulane.edu/adobe-creative-cloud)
-- [Student Group Printing](https://tulane.box.com/s/p6akc7mn3qd60k845si96fpn71pb6utc)
+- [Student Group Printing](https://github.com/newcombtech/Technology-Lab/blob/main/Commons%20Technology/Instructions/Student%20Group%20Printing%20Procedures.md)
 - [Webmail](https://outlook.com/tulane.edu): You can access Tulane email and calendars via the web browser. This portal is also where you can access your other Microsoft office tools and software. You can change your profile picture under the profile settings.
 - [Wifi](https://it.tulane.edu/wifi): To login to wifi at Tulane, use Eduroam. I have downloaded the patch on your computer so that you are able to connect. 
-- [Qualtrics](http://guide.tulane.edu/ilc-training-library/ilc-training-library-qualtrics/)
 - [Zoom/Webinar Requests](https://it.tulane.edu/zoom)
 - [Email](https://outlook.com/tulane.edu): You can access your Tulane email and calendars via the web browser or through a desktop app. This portal is also where you can access your other Microsoft office tools and software. You can change your profile picture under the profile settings. 
 - [Newcomb Events Calendar](https://tulane.box.com/s/ssggyo0mwsdj3i66kw3w4jqezx3ojd6z): Access the Newcomb Events calendar under “My Calendars” in your outlook calendar. You should consult this calendar and the wave sync calendars when planning events, to avoid double booking. You may need to quit the outlook desktop app and reopen it for the calendar to appear. 
