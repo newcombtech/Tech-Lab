@@ -1,31 +1,30 @@
-**NCI SHARE DRIVE -- BOX\
-**
+# NCI SHARE DRIVE -- BOX 
 
-The [NCI Share Drive]{.underline} Folder is a box account that has been
+The **NCI Share DrivevFolder** is a box account that has been
 shared with each NCI staff member. This means that this folder now shows
 up in your personal TU box account. All of NCI staff has editing rights
-to this folder. This means from your [own]{.underline} box account you
+to this folder. This means from your **own** box account you
 can access, upload, delete, move files in this folder. Just like the
-older share drive on the TU server, anything you put in this [NCI Share
-Drive]{.underline} folder can be seen by everyone in the department.
+older share drive on the TU server, anything you put in this **NCI Share
+Drive** folder can be seen by everyone in the department. <br><br>
 
 For version control purposes, instead of attaching policy files to
 list-serve emails, please upload (or drag) it to the NCI Share Drive
 Folder in your Box account and share that link with everyone. Please
-archive any outdated documents that you are replacing.
+archive any outdated documents that you are replacing. <br><br>
 
 **Directions and Best Practices for Using the NCI Share Drive in Box:**
 
-1.  Login to your [own]{.underline} box account.
+1.  Login to your **own** box account.
 
-2.  Click on the [NCI Share Drive]{.underline} Folder.
+2.  Click on the **NCI Share Drive** Folder.
 
 3.  Create or select the folder in which you want to store your file.
 
-4.  Upload the file you want to share to the [NCI Share Drive
-    Folder]{.underline} using the Upload -\> File -\> Select your file
-    OR if your file is in box, simply drag your file into the [NCI Share
-    Drive]{.underline} Folder.
+4.  Upload the file you want to share to the **NCI Share Drive
+    Folder** using the Upload -\> File -\> Select your file
+    OR if your file is in box, simply drag your file into the **NCI Share
+    Drive** Folder.
 
     a.  If an older copy of the file exists in the folder, please create
         an archive folder to store that file.
@@ -46,7 +45,7 @@ from using the server share drive (and Nadine) because TU IT is planning
 to move away from supporting these types of server-based share drives
 AND more importantly because the cloud is more accessible. I am happy to
 answer any questions or concerns about this on Monday or walk anyone
-through how to use Box.
+through how to use Box.  <br><br>
 
 **Directions for syncing the NCI Share Drive Folder to your computer**
 
