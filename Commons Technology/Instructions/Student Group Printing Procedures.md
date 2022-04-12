@@ -1,7 +1,7 @@
-**Student Group Printing Procedures**
+# Student Group Printing Procedures
 
 Newcomb Institute provides printing for Newcomb affiliated students
-group activities.
+group activities. <br> <br>
 
 **Procedures**:
 
@@ -39,7 +39,7 @@ To print, the student group must:
 documents, students are encouraged to print a test copy first on your
 own. If the attachment includes multiple pages, the document will be
 printed on two sides of the paper (front and back). Two-sided prints
-will only count as one page.
+will only count as one page. <br> <br>
 
 **Student Worker Procedures**
 
