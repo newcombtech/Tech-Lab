@@ -8,12 +8,12 @@
 
 - Technology Lab
     - [Outcomes and values](https://github.com/newcombtech/Technology-Lab/blob/main/Technology%20Lab/Outcomes_and_values.md)
-    - [SCRUM Manual](https://github.com/newcombtech/Technology-Lab/blob/main/Technology%20Lab/SCRUM%20Manual.pdf)
+    - [SCRUM Manual](https://github.com/newcombtech/Technology-Lab/blob/main/Technology%20Lab/SCRUM%20Manual.md)
     - [Why Scrum](https://github.com/newcombtech/Technology-Lab/blob/main/Technology%20Lab/Why%20Scrum.pdf)
 
 - Grace Hopper Celebration
     - [Grace Hopper Conference Steps](https://github.com/newcombtech/Technology-Lab/blob/main/Grace%20Hopper%20Celebration/GraceHopperConferenceSteps.md)
-    - [LinkedIn Tips](https://github.com/newcombtech/Technology-Lab/blob/main/Grace%20Hopper%20Celebration/LinkedIn-Tips)
+    - [LinkedIn Tips](https://github.com/newcombtech/Technology-Lab/blob/main/Grace%20Hopper%20Celebration/LinkedIn-Tips.md)
 
 Welcome to Newcomb Institute's Technology Lab Github Page! The Technology Lab educates undergraduates about the importance of diversity and inclusion in STEM. 
 It is a curated digital space that communicates Newcomb Institute’s role in working towards gender equity in STEM through undergraduate programming. 
