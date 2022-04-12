@@ -61,11 +61,11 @@ To request training or computer updates, email Dr. Jacquelyne Thoni Howard.
 
 **Event Spaces - 333 and 335**
 
-[Step-by-Step Intructions](https://docs.google.com/document/d/1HoEIu6fnYm9aAHmcwTcCOWhuUgXkEjGbUPo49o4XQ8M/edit?usp=sharing) 
+[Step-by-Step Intructions](https://github.com/newcombtech/Technology-Lab/blob/main/Commons%20Technology/Instructions/333_335%20Podium%20Instructions.pdf)
 
 **Module 1 - Classroom Projector and Projector Panel**
-- [333 and 335 Event Space Signage](https://docs.google.com/document/d/1HoEIu6fnYm9aAHmcwTcCOWhuUgXkEjGbUPo49o4XQ8M/edit?usp=sharing) 
-- [333 and 335 Step-by-Step Instructions](https://tulane.box.com/s/gcquuyrfnypczu2e6hcqcwdhl467wndl)
+- [333 and 335 Event Space Signage](https://github.com/newcombtech/Technology-Lab/blob/main/Commons%20Technology/Instructions/333_335%20Podium%20Instructions.pdf)
+- [333 and 335 Step-by-Step Instructions](https://github.com/newcombtech/Technology-Lab/blob/main/Commons%20Technology/Instructions/333_335%20Podium%20StepbyStepInstructions.pdf)
 - [Introduction to the Projector Screen Video](https://www.youtube.com/watch?v=HOtf2nPXvBw&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=3)
 - [Accessing Projector Mode Video](https://www.youtube.com/watch?v=vW_GwrrqAyk&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=4)
 - [Accessing Audio Mode #1 Video](https://www.youtube.com/watch?v=a6VWVLS9QUo&list=PLpoK7n7xoqkH4Gw8xG-fIdtiGhOElgnjA&index=5)
@@ -99,7 +99,7 @@ To request training or computer updates, email Dr. Jacquelyne Thoni Howard.
 
 -----------------------------------------------
 **Module 5 - Record a meeting**
-- [How to record on Zoom in room 300](https://docs.google.com/document/d/1Opaq_xwoCR_T2nwweUSNR4VxZckajn9pFni0XFvd8f8/edit)
+- [How to record on Zoom in room 300](https://github.com/newcombtech/Technology-Lab/blob/main/Commons%20Technology/Instructions/How%20to%20record%20an%20in-person%20event%20using%20Zoom%20in%20room%20300.md)
 
 -----------------------------------------------
 **ListServ Instructions**
