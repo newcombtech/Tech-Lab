@@ -113,7 +113,7 @@ The NI list-serve address is NCI-L@LISTSERV.TULANE.EDU. All emails sent via the 
 **Important Links**
 - [Box](https://tulane.box.com): If prompted, you will click “Part of Tulane University.” Use your Tulane.edu email address and email password. All NI faculty and staff should to use box as their file backup plan, especially with institutional files. 
 - [NI Share Drive Folder](https://github.com/newcombtech/Technology-Lab/blob/main/Commons%20Technology/Instructions/Share%20Drive%20Instructions.md): The NI Share Drive folder will appear in your tulane box account. Shared Institutional materials should be stored in this folder on the cloud. Everyone at Newcomb can see the files located in the NI Share drive. Anything placed in blue folders means it is shared with someone. Here are the instructions for using the share drive: 
-- [Events: Setting up Bulk Wifi, Webinar Requests, and Conference Calling](https://github.com/newcombtech/Technology-Lab/blob/main/Commons%20Technology/Instructions/Event%20Technology%20Checklist.pdf)
+- [Event Checklist: Setting up Bulk Wifi, Webinar Requests, and Conference Calling](https://tulane.box.com/s/njo3kc8nyrmdlsb48bi8u6kmc6p217o8)
 - [Phone Manual](https://tulane.box.com/s/gwk9mytww8hhex77nyh0idbib6xc7ibn) 
 - Software:
       - [Employee Access to Software](https://tulane.onthehub.com/WebStore/Welcome.aspx) 
